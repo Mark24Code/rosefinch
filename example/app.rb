@@ -1,4 +1,4 @@
-require_relative "../lib/rosefinch/main.rb"
+require "rosefinch"
 
 get "/" do
   "Hello World!"
